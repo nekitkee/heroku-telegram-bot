@@ -1,12 +1,12 @@
 telebot
 datetime
-import ssl
-import random
-import urllib.request
-import json
-import wikipedia
-from xml.dom import minidom
-import time
-import logger
-import requests
-import ast
+ssl
+random
+urllib.request
+json
+wikipedia
+xml.dom
+time
+logger
+requests
+ast
