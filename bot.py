@@ -22,7 +22,7 @@ import requests
 import ast
 
 
-token="500647168:AAFXwxweoQ22tA-r47pIWJiVpZcITRKaxXA"
+token="NO TOKEN ZAZAZA"
 url='https://blockchain.info/ru/ticker'
 urlz='http://img.ignio.com/r/export/utf/xml/daily/com.xml'
 delta=86400
